@@ -1,0 +1,16 @@
+{
+    "Name": "Flickering Torches",
+    "Author": "arnavagg",
+    "Version": "1.0.0",
+    "Description": "Makes torch lights flicker realistically with customizable intensity and speed",
+    "UniqueID": "arnavagg.FlickeringTorches",
+    "EntryDll": "FlickeringTorches.dll",
+    "MinimumApiVersion": "3.13.0",
+    "UpdateKeys": [],
+    "Dependencies": [
+        {
+            "UniqueID": "spacechase0.GenericModConfigMenu",
+            "IsRequired": false
+        }
+    ]
+}
